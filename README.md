@@ -28,3 +28,11 @@ useful for automated pipelines, as a tool box, or just experimenting with a tool
 
         make build-gradle
         make push-gradle
+
+# Examples
+
+## Using these utility/tools containers in a Jenkins Pipeline on Kubernetes
+These containers can be useful when running the Jenkins Kubernetes plugin.  You can use these
+containers to execute commands and/or help you deploy out your application.
+
+Check out the example here: [Jenkins Pipeline on Kubernetes](https://github.com/sekka1/containers/blob/master/examples/jenkins-kubernetes-pipeline)
