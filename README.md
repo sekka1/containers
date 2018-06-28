@@ -6,20 +6,20 @@ useful for automated pipelines, as a tool box, or just experimenting with a tool
 ## Supported tags and respective `Dockerfile` links
 
 ### aws-cli
-- [`1.11.185` (*1.11.185/Dockerfile*)](https://github.com/sekka1/containers/blob/master/releases/aws-cli/1.11.185/Dockerfile)
-- [`1.15.47` (*1.15.47/Dockerfile*)](https://github.com/sekka1/containers/blob/master/releases/aws-cli/1.15.47/Dockerfile)
+- [`garland/aws-cli:1.11.185` (*1.11.185/Dockerfile*)](https://github.com/sekka1/containers/blob/master/releases/aws-cli/1.11.185/Dockerfile)
+- [`garland/aws-cli:1.15.47` (*1.15.47/Dockerfile*)](https://github.com/sekka1/containers/blob/master/releases/aws-cli/1.15.47/Dockerfile)
 
 ### gradle
-- [`4.8.1` (*4.8.1/Dockerfile*)](https://github.com/sekka1/containers/blob/master/releases/gradle/4.8.1/Dockerfile)
+- [`garland/gradle:4.8.1` (*4.8.1/Dockerfile*)](https://github.com/sekka1/containers/blob/master/releases/gradle/4.8.1/Dockerfile)
 
 ### helm
-- [`2.9.1` (*2.9.1/Dockerfile*)](https://github.com/sekka1/containers/blob/master/releases/helm/2.9.1/Dockerfile)
+- [`garland/helm:2.9.1` (*2.9.1/Dockerfile*)](https://github.com/sekka1/containers/blob/master/releases/helm/2.9.1/Dockerfile)
 
 ### kops
-- [`1.9.1` (*1.9.1/Dockerfile*)](https://github.com/sekka1/containers/blob/master/releases/kops/1.9.1/Dockerfile)
+- [`garland/kops:1.9.1` (*1.9.1/Dockerfile*)](https://github.com/sekka1/containers/blob/master/releases/kops/1.9.1/Dockerfile)
 
 ### kubectl
-- [`1.10.4` (*1.10.4/Dockerfile*)](https://github.com/sekka1/containers/blob/master/releases/kubectl/1.10.4/Dockerfile)
+- [`garland/kubectl:1.10.4` (*1.10.4/Dockerfile*)](https://github.com/sekka1/containers/blob/master/releases/kubectl/1.10.4/Dockerfile)
 
 ## Building and pushing a versioned container
 
